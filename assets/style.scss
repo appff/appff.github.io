@@ -335,7 +335,7 @@ p > img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: "Nanum Myeongjo", serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -449,7 +449,7 @@ body:after {
 }
 
 .post h1{
-  font-family: "Nanum Myeongjo", serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;

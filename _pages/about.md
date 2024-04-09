@@ -3,27 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+나는 컴퓨터공학 박사이며, 현재 블록체인 회사에서 테크리드매니저로 역할을 수행하고 있다. 대학원의 마지막 연구로 블록체인 연구를 우연히 하게 되었고 웹3의 매력(?)에 빠져서 일하고 있다. 이 블로그는 나의 짧은 생각들을 정리하는 작은 공간이다. 한 인간으로서 나의 포부와 생각이지 내가 몸담고 있는 조직과는 아무 관련이 없다.

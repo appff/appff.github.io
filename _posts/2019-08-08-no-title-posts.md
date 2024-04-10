@@ -3,4 +3,4 @@ layout: post
 title: "no title"
 categories: Miscellaneous
 ---
-Sometimes, your post just stands for itself and doesn't need a title. And that's fine, too!
+안녕하세요 샘플
